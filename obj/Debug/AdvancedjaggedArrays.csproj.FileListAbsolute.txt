@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\AdvancedjaggedArrays\AdvancedjaggedArrays\bin\Debug\AdvancedjaggedArrays.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\AdvancedjaggedArrays\AdvancedjaggedArrays\bin\Debug\AdvancedjaggedArrays.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\AdvancedjaggedArrays\AdvancedjaggedArrays\bin\Debug\AdvancedjaggedArrays.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\AdvancedjaggedArrays\AdvancedjaggedArrays\obj\Debug\AdvancedjaggedArrays.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\AdvancedjaggedArrays\AdvancedjaggedArrays\obj\Debug\AdvancedjaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\AdvancedjaggedArrays\AdvancedjaggedArrays\obj\Debug\AdvancedjaggedArrays.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day5\AdvancedjaggedArrays\AdvancedjaggedArrays\obj\Debug\AdvancedjaggedArrays.pdb
